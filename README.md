@@ -1,4 +1,4 @@
-# website
+# website http://lianybean.github.io/website/
 welcome to my website's files. here you'll obviously see how i coded my github website and take a look at my coding methods.
 #a bit about me
 i'm a web designer based in toronto, as of march.8.2016 i am doing an internship at ontario power generation (and will have completed said internship in early september [1 year length]). by april 2017 i will have graduated from my program at humber college for web design and interactive media. i also took two years of advertising and graphic design.
