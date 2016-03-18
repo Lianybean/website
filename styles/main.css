@@ -37,6 +37,14 @@ section {
 	font-size: 10px;
 }
 
+.carousel-indicators li {
+	border: 1px solid #c4a1c1;
+}
+
+.carousel-indicators .active {
+	background-color: #c4a1c1;
+}
+
 /* -------------------------------------------------- CUSTOMS */
 
 #contact {
